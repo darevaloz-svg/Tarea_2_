@@ -23,9 +23,13 @@ Seleccionar la opción 1.
 Ingresar un número entero.
 Comparar el resultado con el valor binario esperado.
 Casos sugeridos:
+
 Entrada: 10 → Salida esperada: 1010
+
 Entrada: 5 → Salida esperada: 101
+
 Entrada: 0 → Salida esperada: 0
+
 Entrada: -8 → Salida esperada: -1000
 -------------------------------------------
 2. Prueba de Conteo de Dígitos
@@ -37,8 +41,11 @@ Seleccionar la opción 2.
 Ingresar un número entero positivo o negativo.
 Verificar que el total de dígitos coincida con el esperado.
 Casos sugeridos:
+
 Entrada: 12345 → Salida esperada: 5
+
 Entrada: 9 → Salida esperada: 1
+
 Entrada: -456 → Salida esperada: 3
 ---------------------------------
 3. Prueba de Raíz Cuadrada Entera
@@ -51,9 +58,13 @@ Seleccionar la opción 3.
 Ingresar un número.
 Verificar que el resultado sea el entero más grande cuyo cuadrado no supere el número dado.
 Casos sugeridos:
+
 Entrada: 16 → Salida esperada: 4
+
 Entrada: 20 → Salida esperada: 4
+
 Entrada: 1 → Salida esperada: 1
+
 Entrada: -9 → Mensaje indicando que no existe raíz cuadrada real
 ----------------------------------------------------------------------------
  4. Prueba de Conversión de Romano a Decimal
@@ -64,11 +75,17 @@ Seleccionar la opción 4.
 Ingresar un número romano en mayúsculas.
 Comparar el resultado con el valor decimal correspondiente.
 Casos sugeridos:
+
 Entrada: X → Salida esperada: 10
+
 Entrada: IV → Salida esperada: 4
+
 Entrada: IX → Salida esperada: 9
+
 Entrada: XL → Salida esperada: 40
+
 Entrada: MCM → Salida esperada: 1900
+
 ----------------------------------------------------------------
 5. Prueba de Suma de Números Enteros
 
@@ -79,8 +96,11 @@ Seleccionar la opción 5.
 Ingresar un número entero positivo.
 Verificar el resultado obtenido.
 Casos sugeridos:
+
 Entrada: 5 → Salida esperada: 15
+
 Entrada: 10 → Salida esperada: 55
+
 Entrada: 0 → Salida esperada: 0
 -----------------------------------------------------------------
 Validación General del Sistema
